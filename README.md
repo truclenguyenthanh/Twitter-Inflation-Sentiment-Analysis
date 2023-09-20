@@ -13,7 +13,7 @@ In this repository, I explore the public sentiment on inflation using real-time 
  * Visualization: Interactive dashboards showcasing sentiment trends, frequency of related topics, and geographic distribution of sentiments.
 
 ## Dependencies:
-Python, Tweepy, Pandas, Scikit-learn, NLTK, and Matplotlib.
+Python, Tweepy, Pandas, Scikit-learn, NLTK, Matplotlib, and AWS.
 
 ## Contribution:
 Contributions are welcome! Feel free to fork, suggest improvements, or raise issues.
