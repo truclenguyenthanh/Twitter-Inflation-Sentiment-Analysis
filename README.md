@@ -1,10 +1,10 @@
 # Project: Twitter Inflation Sentiment Analysis
 
 ## Objective: 
-   In this repository, I explore the public sentiment on inflation using real-time Twitter data. By analyzing tweets, I aim to gauge the public's perception and concerns regarding economic trends.
+In this repository, I explore the public sentiment on inflation using real-time Twitter data. By analyzing tweets, I aim to gauge the public's perception and concerns regarding economic trends.
 
 ## Dataset: 
-   889,928 tweets from Dec 9 - Dec 16, 2022
+889,928 tweets from Dec 9 - Dec 16, 2022
 
 ## Features:
  * Data Collection: Real-time streaming of tweets related to inflation using Twitter's API.
